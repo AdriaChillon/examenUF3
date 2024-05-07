@@ -2,3 +2,7 @@ body {
     background-color: darkgrey;
     color: lightcyan;
 }
+
+h1{
+    font-weight: bold;
+}
