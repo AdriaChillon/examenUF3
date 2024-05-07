@@ -1,8 +1,14 @@
 body {
-    background-color: darkgrey;
-    color: lightcyan;
+    background-color: white;
+    color: black;
 }
 
 h1{
     font-weight: bold;
+}
+
+img {
+    max-width: 25%; 
+    max-height: 25%;
+    display: inline-block;
 }
